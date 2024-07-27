@@ -7,7 +7,7 @@ An Invoice Generator project built with React and TailwindCSS. Add items, quanti
 
 ### Live Demo
 
-https://react-invoice-generator.web.app/
+https://chetaninvoicebill.netlify.app/
 
 ### Screenshots
 
