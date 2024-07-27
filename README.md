@@ -11,11 +11,11 @@ https://react-invoice-generator.web.app/
 
 ### Screenshots
 
-<img src="https://imgur.com/rjisRPZ.jpg" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://imgur.com/vuiKcrK.jpg" style="max-width: 100px;width: 100%; height: auto;">
-<img src="https://imgur.com/bXNiAHT.jpg" style="max-width: 100px;width: 100%; height: auto;">
+![Invoice Generator - Google Chrome 27-07-2024 16_02_26](https://github.com/user-attachments/assets/f61ea708-13a2-4cfd-81c8-e9d885fe7b06)
+![Invoice Generator - Google Chrome 27-07-2024 16_03_58](https://github.com/user-attachments/assets/50efd156-73c0-4fec-b93e-1c34f30c3e78)
 
-### Tools
+
+# Tools
 
 - React
 - Tailwind CSS
